@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+.head-container {
+    background-color: pink;
+    margin: 20px;
+    border-radius: 25px;
+
+}
+
+.main-form {
+    background-color: aliceblue;
+}
